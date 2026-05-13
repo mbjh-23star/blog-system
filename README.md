@@ -24,15 +24,15 @@ Image Upload System: Handles blog images with proper directory storage.
 
 Project Structure:
 /htdocs
-├── index.php         # Main entry point & public listing
-├── login.php         # Admin authentication logic
-├── adminindex.php    # Protected administrative dashboard
-├── fetchbg.php       # AJAX controller for data retrieval
-├── bgcontent.php     # Single post view controller
-├── addblog.php       # Create blog functionality
-├── editbg.php        # Edit blog functionality
-├── deletebg.php      # Delete blog functionality
-└── images/           # Blog media assets
+index.php- Main entry point & public listing
+login.php- Admin authentication logic
+adminindex.php- Protected administrative dashboard
+fetchbg.php- AJAX controller for data retrieval
+bgcontent.php- Single post view controller
+addblog.php- Create blog functionality
+editbg.php- Edit blog functionality
+deletebg.php- Delete blog functionality
+images/- Blog media assets
 
 Installation & Setup
 
